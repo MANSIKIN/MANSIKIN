@@ -146,5 +146,5 @@ def main():
       # Then, continue with the message sending loop
       send_messages_from_file()
 
-if __name__ == '__main__':
+if __name__ == '__main
       main()
